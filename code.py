@@ -1,0 +1,1 @@
+print(krishna parasad + entry course)
